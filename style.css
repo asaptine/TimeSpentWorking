@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background: #CCCCCC;
+    height: 100vh;
+}
+form {
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.result {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
